@@ -4,6 +4,8 @@ from tkinter.ttk import Frame, Label, Style
 
 window = Tk()
 window.configure(background="#BEE7E8", bd=0)
+window.geometry("375x700")
+window.title("WithU")
 
 logo = Image.open("withu_logo.png")
 logo1 = ImageTk.PhotoImage(logo.resize((300, 300)))
@@ -23,7 +25,5 @@ savedButton = Button(window, text="Favourites", bg="#A0D2DB", fg="#594157", font
 savedButton.grid(row=0, column=1)
 savedButton.place(x=95.5, y=540) #Change Placement
 savedButton.config(height=5, width=20)
-window.geometry("375x700")
-window.title("WithU")
 
 window.mainloop()
