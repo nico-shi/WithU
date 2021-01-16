@@ -1,10 +1,9 @@
 # WithU
 
-In Development...
+In Development...  
+*Written in Python*  
 
-*Done in Python*
-
-## Created for Hack the North 2021 by:
+#### Created for Hack the North 2021 by:
 
 Nicole Shi - Software Engineer  
 Roni Wu - Software Engineer  
