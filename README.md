@@ -6,5 +6,6 @@ In Development...
 
 ## Created for Hack the North 2021 by:
 
-Nicole Shi - Software Engineer  
-Roni Wu - Software Engineer  
+Nicole Shi - Software Engineer
+Roni Wu - Software Engineer
+Deanna Chen - Software Engineer
