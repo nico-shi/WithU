@@ -7,8 +7,8 @@ window.configure(background="#BEE7E8", bd=0)
 window.geometry("375x700")
 window.title("WithU")
 
-logo = Image.open("withu_logo.png")
-logo1 = ImageTk.PhotoImage(logo.resize((300, 300)))
+logo = Image.open("withulogo_bg.jpg")
+logo1 = ImageTk.PhotoImage(logo.resize((300, 169)))
 label = Label(image=logo1)
 
 label.image = logo1
